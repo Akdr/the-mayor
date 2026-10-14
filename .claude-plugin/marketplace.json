@@ -1,0 +1,14 @@
+{
+  "name": "the-mayor",
+  "description": "The Mayor: supervise Claude Code agents in Orca panes from one hub session.",
+  "owner": {
+    "name": "Daniel Westerling"
+  },
+  "plugins": [
+    {
+      "name": "the-mayor",
+      "source": "./",
+      "description": "A hub Claude Code session that spawns and supervises other Claude Code agents in Orca worktrees and terminals."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "the-mayor",
+  "version": "0.1.0",
+  "description": "A hub Claude Code session that spawns and supervises other Claude Code agents in Orca worktrees and terminals, instead of in-process subagents.",
+  "author": {
+    "name": "Daniel Westerling"
+  },
+  "homepage": "https://github.com/Akdr/the-mayor",
+  "repository": "https://github.com/Akdr/the-mayor",
+  "license": "MIT",
+  "keywords": ["orca", "orchestration", "multi-agent", "worktree"]
+}
